@@ -1,5 +1,5 @@
 
-# [NewsPortal ](https://github.com/Dgichaba/Organizational-News-Portal.git)
+# [Organizational News Portal](https://github.com/Dgichaba/Organizational-News-Portal.git)
 
 Author [Dorothy Gichaba](https://github.com/Dgichaba)
 
