@@ -1,7 +1,7 @@
 
 # [NewsPortal ](https://github.com/Dgichaba/Organizational-News-Portal.git)
 
-Author [Dorothy Gichaba]
+Author [Dorothy Gichaba](https://github.com/Dgichaba)
 
 ## Brief description
 NewsPortal is an Organisational news dissemination application. 
@@ -100,7 +100,7 @@ There are no known bugs. Please submit those you find for correction.
 Pull requests are encouraged.
 
 ## License
-This project is licensed under the MIT Open Source license.
+This project is licensed under the MIT Open Source license. For more information, check license.txt file.
 
 
 
